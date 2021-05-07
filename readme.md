@@ -1,2 +1,2 @@
 # Die Lustigen hihi
-Die Biesenlage beinhaltet kalte winde
+Die Biesenlage beinhaltet kalte Winde.
