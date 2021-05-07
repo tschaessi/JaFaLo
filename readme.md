@@ -30,3 +30,4 @@ Blockquotes sind so Zitat dinger die dann so einen grauen balken links haben daf
 ## Images
 Bilder kann man einfach als Link einfügen wie vorher mit dem Link namen aber davor einfach noch ein !
 Für ein Referenzbild folgen Sie demselben Muster wie für einen Referenzlink. Sie werden dem Markdown ein Ausrufezeichen voranstellen und dann zwei Klammern für den Alternativtext und zwei weitere für das Bild-Tag wie ![The founding father][Father]folgt angeben : Am Ende Ihrer Markdown-Seite definieren Sie ein Bild für das Tag. so : [Father]: http://octodex.github.com/images/founding-father.jpg. 
+## Print Befehl
